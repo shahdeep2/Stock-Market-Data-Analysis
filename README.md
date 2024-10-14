@@ -23,9 +23,10 @@ pip install pandas matplotlib
 Usage:
 Clone the repository or download the project files.
 Place your stock market data CSV file in the project directory.
-Run the Stock_Market_Data_Analysis_Project.ipynb or Stock_Market_Data_Analysis_Project.py script to perform the analysis and generate visualizations.
+Run the Stock_Market_Data_Analysis_Project.ipynb or analysis.py script to perform the analysis and generate visualizations.
 
-python Stock_Market_Data_Analysis_Project.py ( If you are doing it in VS Code (Only If you downloded .py file ) , otherwise directly run it in google colab if you downloded Stock_Market_Data_Analysis_Project.ipynb file
+Run : Run the analysis.py script to perform the analysis and generate visualizations : 
+python analysis.py ( If you are doing it in VS Code (Only If you downloded .py file ) , otherwise directly run it in google colab if you downloded Stock_Market_Data_Analysis_Project.ipynb file
 
 Sample Output:
 The analysis will produce visualizations showing:
